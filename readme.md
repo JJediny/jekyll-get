@@ -2,6 +2,13 @@
 
 Add this file to `_plugins` in the root of your Jekyll site.
 
+Add dependencies from Gemfile to your jekyll site's Gemfile
+
+# Run
+`bundle install`
+`jekyll build`
+`jekyll serve`
+
 # Configure
 
 This plugin reads settings from the `_config.yml` file. Add settings as attributes or an array of attributes for multiple files.
